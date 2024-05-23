@@ -11,7 +11,7 @@ import SwiftUI
 struct Q_LnkApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwiftUIView()
         }
     }
 }
